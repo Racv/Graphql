@@ -1,0 +1,29 @@
+{
+  "name": "graphql_app",
+  "version": "1.0.0",
+  "description": "Sample GraphQL App using express in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run_server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Racv/Graphql.git"
+  },
+  "author": "Ravi SIngh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Racv/Graphql/issues"
+  },
+  "homepage": "https://github.com/Racv/Graphql#readme",
+  "dependencies": {
+    "graphql": "^14.2.1",
+    "koa": "^2.7.0",
+    "koa-graphql": "^0.8.0",
+    "koa-mount": "^4.0.0",
+    "mongodb": "^3.2.3",
+    "mongoose": "^5.5.4",
+    "nodemon": "^1.18.11"
+  }
+}
