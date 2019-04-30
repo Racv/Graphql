@@ -4,7 +4,7 @@ Try this project..
 
 ## Install
 
-<code> git clone </code>
+<code> git clone https://github.com/Racv/Graphql.git </code>
 
 Then install dependencies
 
